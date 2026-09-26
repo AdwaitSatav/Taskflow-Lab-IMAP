@@ -1,6 +1,16 @@
+# Virtual environment
 venv/
-_pycache_/
+myenv/
+ 
+# Python
+__pycache__/
 *.pyc
+ 
+# Django
 db.sqlite3
+ 
+# Environment variables
 .env
+ 
+# macOS
 .DS_Store
